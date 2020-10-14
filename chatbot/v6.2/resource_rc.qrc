@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="re">
+    <file>angry.gif</file>
+    <file>talk.gif</file>
+    <file>empty.gif</file>
+    <file>happy.gif</file>
+  </qresource>
+</RCC>

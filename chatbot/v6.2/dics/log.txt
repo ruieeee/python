@@ -1,0 +1,216 @@
+Rear System Dialogue Log2020-06-23 14:06::36
+>a
+rear:Pattern>ウケるー
+>a
+rear:Pattern>なんか眠くなっちゃった
+>a
+rear:Pattern>あれってどうなったの？
+Rear System Dialogue Log2020-06-23 15:06::15
+Rear System Dialogue Log2020-06-23 16:06::12
+>おす
+rear:Random>じゃあこれ知ってる？
+>おす
+rear:Random>テンション爆上げ
+>おす
+rear:Pattern>うぃっす
+>おす
+rear:Repeat?>おすって何？
+>あ
+rear:Repeat?>あって何？
+>あ
+rear:Pattern>喉かわいたー
+>ジアじゃ
+rear:Random>あ
+Rear System Dialogue Log2020-06-24 11:06::03
+Rear System Dialogue Log2020-06-24 11:06::21
+>ご飯食べたい
+rear:Random>a
+Rear System Dialogue Log2020-06-24 11:06::00
+Rear System Dialogue Log2020-06-24 11:06::24
+>ご飯食べたい
+rear:Pattern>ご飯食べたい
+>ご飯
+rear:Random>あなたはパリピ？
+Rear System Dialogue Log2020-06-24 11:06::26
+>ご飯食べたい
+rear:Random>そんなこと知らないもん
+>ご飯良いすか?
+rear:Pattern>ご飯食べたい
+Rear System Dialogue Log2020-06-24 13:06::01
+>成功
+rear:Pattern>ヘビメタ好き？
+>最高
+rear:Repeat?>最高って何？
+>最高
+rear:Pattern>最高
+>最高
+rear:Pattern>ハイキング最高！なんたってお弁当美味しいものね
+>最高
+rear:Pattern>最高
+>最高
+rear:Pattern>ハイキング最高！なんたってお弁当美味しいものね
+Rear System Dialogue Log2020-06-24 13:06::35
+>最高
+rear:Pattern>ハイキング最高！なんたってお弁当美味しいものね
+>最高
+rear:Pattern>ハイキング最高！なんたってお弁当美味しいものね
+>uav
+rear:Pattern>UAVオンライン
+>こんばんわ
+rear:Pattern>こんばんわ
+>こんばんは
+rear:Pattern>こんばんわ
+>こんばんは
+rear:Pattern>こんばんわ
+>こんばんわ
+rear:Pattern>こんばんわ
+>おす
+rear:Pattern>うぃっす
+>どれ
+rear:Pattern>10円おちてた
+>どれ?
+rear:Pattern>それだよー
+Rear System Dialogue Log2020-06-24 13:06::08
+>こんにちわ
+rear:Pattern>ちわす
+>自転車で行ったよ
+rear:Pattern>チャリの放置はいけません！
+Rear System Dialogue Log2020-06-24 13:06::06
+Rear System Dialogue Log2020-06-24 13:06::28
+>どれ？
+rear:Pattern>アレはアレ
+>自転車
+rear:Pattern>電動アシストほしいな～
+Rear System Dialogue Log2020-06-24 13:06::06
+>ぶす
+rear:Pattern>しばいたろか？
+>ぶす
+rear:Random>じゃあこれ知ってる？
+>ぶす
+rear:Pattern>しばいたろか？
+>綺麗
+rear:Pattern>綺麗ってホント！？ホントに！？
+>綺麗
+rear:Pattern>綺麗
+>綺麗
+rear:Pattern>綺麗
+>綺麗
+rear:Repeat?>綺麗って何？
+>綺麗
+rear:Pattern>綺麗ってホント！？ホントに！？
+Rear System Dialogue Log2020-06-24 13:06::15
+>こんにちわ
+rear:Repeat?>こんにちわって何？
+>こんにちわ
+rear:Pattern>ちわす
+>まじすか
+rear:Pattern>あなたはパリピ？
+>あ
+rear:Pattern>ぶす
+>あ
+rear:Pattern>それかわいい♪
+>あ
+rear:Pattern>あ
+Rear System Dialogue Log2020-06-24 13:06::11
+>うあああああああ
+rear:Pattern or Random>それかわいい♪
+Rear System Dialogue Log2020-06-25 09:06::12
+Rear System Dialogue Log2020-06-25 15:06::53
+>お腹減ったな
+rear:Template>今日のお腹は何？
+>お腹減ったな
+rear:Template>うーん、お腹かあ
+Rear System Dialogue Log2020-06-25 15:06::56
+>パスタ食べたい
+rear:Pattern or Random>ロック好き？
+>パスタ食べたい
+rear:Template>パスタ好きだよ
+Rear System Dialogue Log2020-06-25 15:06::24
+>パスタかよおおおおおおおおおおおおおお
+rear:Pattern or Random>パスタ食べたい
+>パスタかよおおおおおおおおおおおおおお
+rear:Pattern or Random>パスタ食べたい
+>パスタかよおおおおおおおおおおおおおおおお
+rear:Template>パスタでしょ！
+Rear System Dialogue Log2020-06-25 15:06::35
+>トマトのリゾットが良いぞ
+rear:Template>トマトってよくわかんないよ
+Rear System Dialogue Log2020-06-25 15:06::54
+>トマトのリゾットが良いぞ
+rear:Template>あ、トマトですね
+Rear System Dialogue Log2020-06-25 15:06::07
+>パスタ良いね
+rear:Template>それはこっちのパスタじゃ！
+Rear System Dialogue Log2020-06-25 15:06::17
+>パスタが良いね
+rear:Pattern or Random>パスタ良いね
+>パスタが良いね
+rear:Pattern or Random>パスタかよおおおおおおおおおおおおおおおお
+>パスタが良いね
+rear:Template>ねえねえ、それはこっちのパスタだよ
+Rear System Dialogue Log2020-06-25 15:06::42
+>明日は雨かな
+rear:Pattern or Random>どこ行くの？雨なのに．．．
+>明日は雨かな
+rear:Pattern or Random>へえー、雨でも平気なんだね
+>明日は雨かな
+rear:Template>雨なんて言ってませんよ
+Rear System Dialogue Log2020-06-25 16:06::22
+>パスタおいしい
+rear:Pattern or Random>パスタ良いね
+Rear System Dialogue Log2020-06-25 16:06::49
+>パスタ食べたい
+rear:Template>パスタはニガテだあ
+Rear System Dialogue Log2020-06-25 16:06::33
+>python
+rear:Pattern or Random>あざますっ
+Rear System Dialogue Log2020-06-25 16:06::51
+>天気予報を教えてください
+rear:Pattern or Random>パスタかよおおおおおおおおおおおおおおおお
+>天気予報を教えてください
+rear:Template>天気は必要か？
+Rear System Dialogue Log2020-06-25 16:06::29
+>パスタおいしいね
+rear:Template>パスタでしょ！
+Rear System Dialogue Log2020-06-25 17:06::16
+>Map
+rear:Template>うーん、Mapかあ
+Rear System Dialogue Log2020-06-25 17:06::52
+>おす
+rear:Template>それはまずいよ
+Rear System Dialogue Log2020-06-25 17:06::38
+>python
+rear:Repeat?>pythonって何？
+>python
+rear:Pattern or Random>python
+>python
+rear:Template>pythonは必要か？
+Rear System Dialogue Log2020-06-25 17:06::37
+Rear System Dialogue Log2020-06-25 17:06::17
+Rear System Dialogue Log2020-06-25 17:06::46
+Rear System Dialogue Log2020-06-25 18:06::28
+Rear System Dialogue Log2020-06-25 18:06::38
+>検索　python
+rear:Template>なかなか検索だね
+>検索：python
+rear:Pattern or Random>検索　python
+Rear System Dialogue Log2020-06-25 18:06::57
+>パスタ
+rear:Template>すでにパスタ食べてしまったとか？
+Rear System Dialogue Log2020-06-25 18:06::17
+Rear System Dialogue Log2020-06-25 18:06::47
+Rear System Dialogue Log2020-06-25 18:06::31
+Rear System Dialogue Log2020-06-25 18:06::33
+Rear System Dialogue Log2020-06-25 18:06::34
+Rear System Dialogue Log2020-06-25 18:06::55
+Rear System Dialogue Log2020-06-25 18:06::46
+Rear System Dialogue Log2020-06-25 18:06::44
+Rear System Dialogue Log2020-06-25 18:06::43
+Rear System Dialogue Log2020-06-27 15:06::11
+>おはよう
+rear:Pattern or Random>まだ眠い…
+>パスタ食べたい
+rear:Pattern or Random>パスタ良いね
+Rear System Dialogue Log2020-07-18 15:07::44
+>こんにちわ
+rear:Pattern or Random>また君か(笑)
